@@ -1,0 +1,25 @@
+1. ¿Qué es un método en Java?
+R/ Es un bloque de codigo, que se almacena dentro de una clase lo que permite ejecutar diferentes instrucciones.
+
+2. ¿Cuáles son los cuatro tipos de métodos en Java?
+R/ 
+- Métodos de instancia
+- Métodos estáticos 
+- Métodos abstractos
+- Métodos constructor
+
+3. ¿Cuál es la diferencia entre un método con parámetros y sin retorno y un método sin parámetros y con retorno?
+R/ Que en el metodo con parametro se tendra que asignar que argumento se va usar mientras que metodo con parametros y con retorno se tendra que asignar que dara retorno al metodo.
+
+4. ¿Cuál es la diferencia entre un método con parámetros y con retorno y un método con parámetros y sin retorno?
+R/ Que en el metodo con parametro y con retorno se asignara un argumento y un retorno al metodo y en el metodo sin parametros y sin retonor no se asignara ni argumento ni retorno.
+
+5. ¿Por qué son importantes los métodos en Java?
+R/ porque nos ayudara a menter un codigo mas limpio y legible.
+
+6. ¿Qué es una estructura de datos?
+R/ Es donde se almacena datos de una forma mas organizada donde dara facilidad y eficiencia de uso.
+
+7. ¿Cuál es la diferencia entre un arreglo, un arrayList y un HashMap?
+R/ el array tiene una cantidad predeterminada a diferencia de arrayList donde la cantidad de elementos es depende de lo que escoga el usuario y el hashMap permite almacenar datos y rastrearlos con facilidad.
+
